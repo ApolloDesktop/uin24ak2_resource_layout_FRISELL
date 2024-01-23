@@ -1,4 +1,3 @@
-document.getElementById("test").innerHTML = "Det funker!" // Testlinje, fjern før arbeid.
 const resources = [
     {
         category: "HTML",
